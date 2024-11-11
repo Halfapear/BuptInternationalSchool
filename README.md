@@ -22,6 +22,7 @@ __高数__ 经典宋浩 你想写什么吉米多维奇也可以 其实把所有�
 __电路__ 推荐 [电气工程杨](https://www.bilibili.com/video/BV1gF411E7FW/?spm_id_from=333.337.search-card.all.click&vd_source=3992bc92d9488eb34391d041e92266ba)的 简练易懂 你在跟着听三节课的RLC别人10min讲明白了
 
 __Github使用__ git进阶可看【十分钟学会正确的github工作流，和开源作者们使用同一套流程】 https://www.bilibili.com/video/BV19e4y1q7JJ/?share_source=copy_web&vd_source=5cdb672a85240041a0304cff7a81bfba
+
 找电子书要会用zlibrary了
 
 
