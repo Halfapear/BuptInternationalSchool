@@ -31,6 +31,9 @@ __Github使用__
 
 找电子书要会用zlibrary了
 
+__协议__ 
+
+该库使用Non-Commercial Creative Commons (CC BY-NC) 不允许将内容用于任何商业化的活动，包括直接出售、商业广告或通过内容产生利润的其他方式
 
 # 北邮其他资料
 
