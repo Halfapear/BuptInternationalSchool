@@ -1,0 +1,15 @@
+形式语言与自动机：
+https://www.bilibili.com/video/BV1oE4116794/?spm_id_from=333.337.search-card.all.click
+第1章、第2章、第三章除了3_5、4_1~4_3、第五章、第六章、7_1、7_4
+
+AI导论：
+网课——李宏毅机器学习
+https://www.bilibili.com/video/BV1Wv411h7kN/?spm_id_from=333.337.search-card.all.click&vd_source=2567da4282d57cc09d44981e074657ed
+跟课程相关的：P1-P4、P13-18、P24-27、P31、P44、
+
+练习——李沐 动手学机器学习
+https://zh-v2.d2l.ai/
+
+离散数学跟着老师好好学，好好听课
+
+计算方法背熟所有公式
