@@ -31,9 +31,13 @@ __Github使用__
 
 找电子书要会用zlibrary了
 
-__协议__ 
+## 开源
 
 该库使用Non-Commercial Creative Commons (CC BY-NC) 不允许将内容用于任何商业化的活动，包括直接出售、商业广告或通过内容产生利润的其他方式
+
+前段时间何学长帮我们踩了坑，也许所有果园的同学们都需要了解一下开源许可证
+
+你可以参考[open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth?tab=readme-ov-file)
 
 # 北邮其他资料
 
