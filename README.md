@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/Halfapear/BuptInternationalSchool)](https://github.com/Halfapear/BuptInternationalSchool/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Halfapear/BuptInternationalSchool)](https://github.com/Halfapear/BuptInternationalSchool/stargazers)
+
 # 北邮果园资料库
 
 本仓库所有的资料都来自网络的收集和同学的分享，仅供学习和研究使用，版权归原作者所有，在此不以盈利为目的，如有侵权请联系 [1783148122@bupt.edu.cn](1783148122@bupt.edu.cn)删除
