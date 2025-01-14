@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/Halfapear/BuptInternationalSchool)](https://github.com/Halfapear/BuptInternationalSchool/main/blob/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Halfapear/BuptInternationalSchool)](https://github.com/Halfapear/BuptInternationalSchool/blob/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Halfapear/BuptInternationalSchool)](https://github.com/Halfapear/BuptInternationalSchool/stargazers)
 
 # ✨北邮果园资料库
