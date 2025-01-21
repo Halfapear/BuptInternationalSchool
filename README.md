@@ -52,6 +52,8 @@ __Github使用__
 
 【作为一个开源人，聊聊何同学的这次“侵权”】 https://www.bilibili.com/video/BV1BfSNYkEMT/?share_source=copy_web&vd_source=5cdb672a85240041a0304cff7a81bfba 不管你对开源是否感兴趣 都可以看看这个视频
 
+想要交流欢迎加QQ 1783148122 请注明来意
+
 # 北邮其他资料
 
 如果你想浏览或补充北邮的其他资料 欢迎到[BUPTStudyMaterials](https://github.com/Halfapear/BUPTStudyMaterials) ~
