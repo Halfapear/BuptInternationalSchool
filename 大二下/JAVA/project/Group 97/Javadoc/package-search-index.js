@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.shapeville.logic"},{"l":"com.shapeville.main"},{"l":"com.shapeville.model"},{"l":"com.shapeville.task.bonus"},{"l":"com.shapeville.task.sk1"},{"l":"com.shapeville.task.sk2"},{"l":"com.shapeville.ui"},{"l":"com.shapeville.ui.panel_templates"},{"l":"com.shapeville.utils"}];updateSearchResults();

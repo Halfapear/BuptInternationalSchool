@@ -1,0 +1,32 @@
+﻿# ------------------------------------------------------------
+# Lightweight sync policy
+# ------------------------------------------------------------
+
+# Common generated artifacts
+**/target/
+**/build/
+**/.DS_Store
+Thumbs.db
+
+# Local editor/runtime files
+**/.idea/
+**/.vscode/*.log
+
+# ------------------------------------------------------------
+# AUTO-MANAGED: files above 100MB (GitHub hard limit)
+# Update with: powershell -ExecutionPolicy Bypass -File scripts/sync-light.ps1
+# BEGIN_LARGE_FILES
+大二下/小学期/国院小学期.7z
+大二下/小学期/国院小学期/AT8236驱动模块资料_V2.8_2024.07.20/1.用户手册与教程视频/AT8236带稳压电机驱动模块（D157B）使用教程视频.mp4
+大二下/小学期/国院小学期/开发工具/MDK-ARM/MDK536.EXE
+大二下/小学期/国院小学期/开发工具/STM32CubeMX/SetupSTM32CubeMX-6.14.1-Win.exe
+大二下/智能网联/AnTuTeachPlatform_Student.zip
+大二下/学交/2024-3 交流技能share/week2/research proposal writing/The Perfect Proposal.mp4
+大二下/小学期/国院小学期/开发工具/MDK-ARM/Keil.STM32F4xx_DFP.2.16.0.pack
+大二下/概率论/概率论与随机过程-Halfapear.pdf
+大二下/概率论/概率论与随机过程-Halfapear-2.pdf
+大二下/概率论/概率论与随机过程.pdf
+大二下/概率论/旧作业/概率论与数理统计30讲.pdf
+# END_LARGE_FILES
+
+

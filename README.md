@@ -48,6 +48,36 @@ __Github使用__
   
   github进阶可看【十分钟学会正确的github工作流，和开源作者们使用同一套流程】 https://www.bilibili.com/video/BV19e4y1q7JJ/?share_source=copy_web&vd_source=5cdb672a85240041a0304cff7a81bfba
 
+### 轻量化下载/上传（建议）
+
+为了避免大文件导致 push 慢、拉取慢或失败，本仓库使用下面的分层策略：
+
+- `<= 20MB`：正常放仓库。
+- `20MB - 100MB`：尽量压缩后再上传，或放到分仓。
+- `> 100MB`：不进主仓（GitHub 限制），由 `.gitignore` 自动维护。
+
+每次新增资料后，建议先执行：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/sync-light.ps1
+git status
+```
+
+如果你只想下载某一部分目录，使用稀疏拉取：
+
+```bash
+git clone --filter=blob:none --sparse git@github.com:Halfapear/BuptInternationalSchool.git
+cd BuptInternationalSchool
+git sparse-checkout init --cone
+git sparse-checkout set 大二下/DSP 大二下/JAVA
+```
+
+如果你长期维护大量原始视频/安装包，建议开一个分仓（例如 `BuptInternationalSchool-assets`）：
+
+- 主仓只放课程文档、代码、轻量资料。
+- 分仓放原始大文件和安装包。
+- 主仓 README 里给分仓链接。
+
 找电子书要会用zlibrary了
 
 ## 📄开源协议

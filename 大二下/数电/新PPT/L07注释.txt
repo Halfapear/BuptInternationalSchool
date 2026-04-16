@@ -1,0 +1,1 @@
+这个Lathes & FFs我上课用的课件版本。reorganise了一些部分, 主要区别是开头SR Latch SET/RESET operation的详细解释还有最后T-FF加了一页说明，还有就是M/S JK FF timing diagram加了若干解释性标注。其他和QM版本应该都一样。

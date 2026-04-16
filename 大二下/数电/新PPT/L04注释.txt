@@ -1,0 +1,3 @@
+1. L04_KarnaughMaps_Part1_F2F.pdf 是K-map上半部分。这部分和QM+版本前一半部分一致。这部分对应Tutorial 04 (tutorial slides MO后面会在QM+上发)
+2. L04_KarnaughMaps_Part2_F2F.pdf 是K-map下半部分。这部分对应有个Tutorial 05 (tutorial slides MO后面会在QM+上发)。但是T05本身和课件里面重复比较多，我的版本是整合了课件和T05内容的版本，方便大家复习时候用。
+3. K-map最后我们还讲了T06_Combinational Logic Circuit Analysis and Design Tutorial. 这个QM+上也有。
