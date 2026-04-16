@@ -99,5 +99,5 @@ git sparse-checkout set 大二下/DSP 大二下/JAVA
 
 <img width="760" height="187" alt="image" src="https://github.com/user-attachments/assets/04212f85-17c1-4f38-92f5-567cff7d704e" />
 
-<img width="1300" height="1769" alt="b371e45ffe9ae550d46cd5204661156e" src="https://github.com/user-attachments/assets/d2018a28-027b-47e9-b6d6-018ed1688a37" />
+<img width="200" alt="b371e45ffe9ae550d46cd5204661156e" src="https://github.com/user-attachments/assets/d2018a28-027b-47e9-b6d6-018ed1688a37" />
 
